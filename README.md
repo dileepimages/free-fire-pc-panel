@@ -1,4 +1,4 @@
-# Free Fire PC Panel [Download](github.com) 🎮
+# Free Fire PC Panel [Download](https://github.com/dileepimages/free-fire-pc-panel/releases/tag/1) 🎮
 
 Welcome to the Free Fire PC Panel project. This panel provides various enhancements and features to improve your gaming experience in Free Fire on PC.
 
